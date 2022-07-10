@@ -1,0 +1,10 @@
+--devilstango hats:
+--8851462135, --u can use any horns but i prefer these
+--4524991457,
+--29532720,
+--63690008,
+--torso;
+--https://www.roblox.com/bundles/337/City-Life-Woman
+
+--script:
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/kdm05/releases/main/DevilsTango.lua'))()
