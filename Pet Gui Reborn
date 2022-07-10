@@ -1,0 +1,12 @@
+-- Welcome To FE Pets 2022 Version!
+--[[Controls
+--B: Toggle Control Pet
+--G: Make Pet Follow You]]
+--[[Pet Controls:
+--WASD - move around
+--QE - rotate left/right
+--XC - go up/down
+--]]
+--Original Script Made By quirky anime boy#7003
+--FE Pets Made By Capo#0152
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aran1910/pets/main/script"))()
