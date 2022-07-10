@@ -1,0 +1,26 @@
+--[[ https://www.roblox.com/catalog/6242426159/Minecart
+
+
+
+     𝕄𝕚𝕟𝕖𝕔𝕒𝕣𝕥
+
+  Made By Ice & Fire#0001
+
+
+
+
+Keybinds:
+e = wave
+q = cry
+r = i dont know
+t = clap
+]]--
+
+
+
+
+
+
+
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/kakabok1233453/asdasda/main/Minecart'),true))()
