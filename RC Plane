@@ -1,0 +1,18 @@
+--Original Script Made By quirky anime boy
+--Plane Script Made By Capo#0152~!
+-- G To Toggle StandBy Mode
+-- B To Toggle Control Mode!
+-- F And R To Turn The Plane Up And Down
+-- R -> Down
+-- F -> Up
+-- X And C To Turn The Plane
+-- X -> Turn Left
+-- C -> Turn Right
+-- Q And E To Roll The Plane
+-- Q -> Roll Left
+-- E -> Roll Right
+-- A And D to move the plane sideways
+-- A -> Move Left
+-- D -> Move Right
+-- HAT NEEDED: https://www.roblox.com/catalog/7226601614/Toy-Plane
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aran1910/dsaa/main/script"))()
